@@ -1,4 +1,4 @@
-Password Manager
+
 Welcome to the Password Manager project! This is a simple application that allows users to manage their passwords securely. Users can store their username, website, and password information. 
 Additionally, the application provides a function to generate secure passwords. The information is saved into a text file for persistence.
 
